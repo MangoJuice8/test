@@ -1,5 +1,5 @@
 #ignore all image files
 *.png
 *.jpg
-#ignore receipts folder 
-receipts/
+#ignore receipts/plots folder 
+receipts/plots/
